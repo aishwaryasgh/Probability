@@ -1,0 +1,26 @@
+### **Sample Space (S) in Probability**  
+A **sample space** is the set of all **possible** outcomes in a probability experiment. It represents everything that can happen in an experiment.  
+
+### **Example 1: Tossing a Coin**  
+- Possible outcomes: **Heads (H), Tails (T)**  
+- Sample space: **S = {H, T}**  
+
+### **Example 2: Rolling a Six-Sided Die**  
+- Possible outcomes: **1, 2, 3, 4, 5, 6**  
+- Sample space: **S = {1, 2, 3, 4, 5, 6}**  
+
+### **Example 3: Drawing a Card from a Standard Deck**  
+- A standard deck has **52 cards**.  
+- Sample space includes all **52 possible cards** (e.g., Ace of Spades, King of Hearts, etc.).  
+
+### **Example 4: Two Coin Tosses**  
+- Possible outcomes: **HH, HT, TH, TT**  
+- Sample space: **S = {HH, HT, TH, TT}**  
+
+### **Types of Sample Spaces**  
+1. **Finite Sample Space** – When the number of outcomes is limited (e.g., rolling a die).  
+2. **Infinite Sample Space** – When outcomes continue indefinitely (e.g., measuring time until an event occurs).  
+3. **Discrete Sample Space** – When outcomes are countable (e.g., number of heads in coin flips).  
+4. **Continuous Sample Space** – When outcomes form a range (e.g., heights of students).  
+
+Do you need an example related to data analysis or real-world applications?
